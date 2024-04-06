@@ -36,7 +36,7 @@ To deploy and interact with the DegenToken contract, follow these steps:
 
 ## Authors
 
-Thomas K Shaji
+Thomas K ShIJU
 
 ## License
 
